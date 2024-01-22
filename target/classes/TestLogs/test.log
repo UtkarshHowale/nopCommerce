@@ -1,0 +1,158 @@
+14:14:01.770 [main] INFO  Utils.Log - ====================================SearchedProductAvailabilityTest==========================================
+14:14:01.779 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+14:14:01.992 [main] INFO  Utils.Log - Step_2: Click on search button
+14:14:03.293 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+14:14:03.316 [main] INFO  Utils.Log - Step_4: Verify the result
+14:14:03.463 [main] INFO  Utils.Log - ====================================SearchedProductAvailabilityTest==========================================
+14:14:14.552 [main] INFO  Utils.Log - ====================================HomePageTitleTest==========================================
+14:14:14.614 [main] INFO  Utils.Log - Verify homepage title to ensure that we are on homepage
+14:14:14.627 [main] INFO  Utils.Log - Actual Page Title Is : nopCommerce demo store
+14:14:14.628 [main] INFO  Utils.Log - Expected Page Title Is : nopCommerce demo store
+14:14:14.628 [main] INFO  Utils.Log - ====================================HomePageTitleTest==========================================
+14:14:20.613 [main] INFO  Utils.Log - ====================================LogoImageTest==========================================
+14:14:20.693 [main] INFO  Utils.Log - Logo Image is present on the homepage
+14:14:20.694 [main] INFO  Utils.Log - ====================================LogoImageTest==========================================
+14:14:26.875 [main] INFO  Utils.Log - ====================================LoginFunctionalityTest==========================================
+14:14:26.875 [main] INFO  Utils.Log - Step_1: Go to login page
+14:14:28.032 [main] INFO  Utils.Log - Step_2: Enter the email & password & click on the login button
+14:14:29.045 [main] INFO  Utils.Log - Step_3: Verify the result
+15:04:55.018 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:04:55.024 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:04:55.479 [main] INFO  Utils.Log - Step_2: Click on search button
+15:04:56.068 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:04:56.333 [main] INFO  Utils.Log - Step_4: Check the searched product is displaying or not
+15:04:56.492 [main] INFO  Utils.Log - Step_5: Click on add to cart button
+15:04:56.616 [main] INFO  Utils.Log - Step_6: Click on shooping cart link
+15:04:59.119 [main] INFO  Utils.Log - Step_7: Verify the product is displaying on the shooping cart page
+15:04:59.202 [main] INFO  Utils.Log - Product is displaying on the shooping cart page
+15:04:59.202 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:05:05.577 [main] INFO  Utils.Log - ====================================SearchedProductAvailabilityTest==========================================
+15:05:05.581 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:05:05.778 [main] INFO  Utils.Log - Step_2: Click on search button
+15:05:07.191 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:05:07.284 [main] INFO  Utils.Log - Step_4: Verify the result
+15:05:07.363 [main] INFO  Utils.Log - ====================================SearchedProductAvailabilityTest==========================================
+15:05:14.118 [main] INFO  Utils.Log - ====================================RegistrationFunctionalityTest==========================================
+15:05:14.119 [main] INFO  Utils.Log - Step_1: Go to registration page
+15:05:14.889 [main] INFO  Utils.Log - Step_2: Select a gender
+15:05:15.151 [main] INFO  Utils.Log - Step_3: Enter a first name
+15:05:15.559 [main] INFO  Utils.Log - Step_4: Enter a last name
+15:05:15.934 [main] INFO  Utils.Log - Step_5: Enter a email id
+15:05:16.194 [main] INFO  Utils.Log - Step_6: Enter a new password
+15:05:16.373 [main] INFO  Utils.Log - Step_7: Enter a confrim password
+15:05:16.570 [main] INFO  Utils.Log - Step_8: Click on the register button
+15:05:17.497 [main] INFO  Utils.Log - Step_9: Verify the result
+15:05:17.582 [main] INFO  Utils.Log - ====================================RegistrationFunctionalityTest==========================================
+15:05:22.820 [main] INFO  Utils.Log - ====================================ProductAddToWishlistTest==========================================
+15:05:22.820 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:05:24.199 [main] INFO  Utils.Log - Step_2: Click on search button
+15:05:24.755 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:05:25.121 [main] INFO  Utils.Log - Step_4: Check the searched product is displaying or not
+15:05:25.190 [main] INFO  Utils.Log - Step_5: Click on the add wishlist button
+15:05:25.434 [main] INFO  Utils.Log - Step_6: Verify the success message is showing
+15:05:26.033 [main] INFO  Utils.Log - Step_7: Click on to the wishlist page link to navigate to the wishlist page
+15:05:26.665 [main] INFO  Utils.Log - Step_8: Verify the product is displaying on the wishlist page
+15:05:26.736 [main] INFO  Utils.Log - Product is displaying in the wishlist
+15:05:26.736 [main] INFO  Utils.Log - ====================================ProductAddToWishlistTest==========================================
+15:05:33.566 [main] INFO  Utils.Log - ====================================LoginFunctionalityTest==========================================
+15:05:33.567 [main] INFO  Utils.Log - Step_1: Go to login page
+15:05:34.469 [main] INFO  Utils.Log - Step_2: Enter the email & password & click on the login button
+15:05:35.262 [main] INFO  Utils.Log - Step_3: Verify the result
+15:06:22.275 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:06:22.281 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:06:23.198 [main] INFO  Utils.Log - Step_2: Click on search button
+15:06:23.907 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:06:24.209 [main] INFO  Utils.Log - Step_4: Check the searched product is displaying or not
+15:06:24.269 [main] INFO  Utils.Log - Step_5: Click on add to cart button
+15:06:24.418 [main] INFO  Utils.Log - Step_6: Click on shooping cart link
+15:06:26.665 [main] INFO  Utils.Log - Step_7: Verify the product is displaying on the shooping cart page
+15:06:26.770 [main] INFO  Utils.Log - Product is displaying on the shooping cart page
+15:06:26.770 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:06:32.919 [main] INFO  Utils.Log - ====================================SearchedProductAvailabilityTest==========================================
+15:06:32.919 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:06:33.108 [main] INFO  Utils.Log - Step_2: Click on search button
+15:06:34.516 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:06:34.532 [main] INFO  Utils.Log - Step_4: Verify the result
+15:06:34.637 [main] INFO  Utils.Log - ====================================SearchedProductAvailabilityTest==========================================
+15:06:41.240 [main] INFO  Utils.Log - ====================================RegistrationFunctionalityTest==========================================
+15:06:41.240 [main] INFO  Utils.Log - Step_1: Go to registration page
+15:06:42.087 [main] INFO  Utils.Log - Step_2: Select a gender
+15:06:42.372 [main] INFO  Utils.Log - Step_3: Enter a first name
+15:06:42.753 [main] INFO  Utils.Log - Step_4: Enter a last name
+15:06:43.067 [main] INFO  Utils.Log - Step_5: Enter a email id
+15:06:43.347 [main] INFO  Utils.Log - Step_6: Enter a new password
+15:06:43.494 [main] INFO  Utils.Log - Step_7: Enter a confrim password
+15:06:43.637 [main] INFO  Utils.Log - Step_8: Click on the register button
+15:06:44.648 [main] INFO  Utils.Log - Step_9: Verify the result
+15:06:44.799 [main] INFO  Utils.Log - ====================================RegistrationFunctionalityTest==========================================
+15:06:51.189 [main] INFO  Utils.Log - ====================================ProductAddToWishlistTest==========================================
+15:06:51.189 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:06:51.437 [main] INFO  Utils.Log - Step_2: Click on search button
+15:06:52.093 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:06:52.332 [main] INFO  Utils.Log - Step_4: Check the searched product is displaying or not
+15:06:52.487 [main] INFO  Utils.Log - Step_5: Click on the add wishlist button
+15:06:52.648 [main] INFO  Utils.Log - Step_6: Verify the success message is showing
+15:06:53.250 [main] INFO  Utils.Log - Step_7: Click on to the wishlist page link to navigate to the wishlist page
+15:06:54.086 [main] INFO  Utils.Log - Step_8: Verify the product is displaying on the wishlist page
+15:06:54.171 [main] INFO  Utils.Log - Product is displaying in the wishlist
+15:06:54.171 [main] INFO  Utils.Log - ====================================ProductAddToWishlistTest==========================================
+15:23:54.338 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:23:54.343 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:23:54.608 [main] INFO  Utils.Log - Step_2: Click on search button
+15:23:55.457 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:23:55.866 [main] INFO  Utils.Log - Step_4: Check the searched product is displaying or not
+15:23:55.932 [main] INFO  Utils.Log - Step_5: Click on add to cart button
+15:23:56.053 [main] INFO  Utils.Log - Step_6: Click on shooping cart link
+15:23:58.393 [main] INFO  Utils.Log - Step_7: Verify the product is displaying on the shooping cart page
+15:23:58.482 [main] INFO  Utils.Log - Product is displaying on the shooping cart page
+15:23:58.482 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:24:05.347 [main] INFO  Utils.Log - ====================================GoToCheckOutPage==========================================
+15:24:05.347 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:24:05.573 [main] INFO  Utils.Log - Step_2: Click on search button
+15:24:06.671 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:24:06.726 [main] INFO  Utils.Log - Step_4: Click on add to cart button
+15:24:06.856 [main] INFO  Utils.Log - Step_5: Click on shooping cart link
+15:24:09.175 [main] INFO  Utils.Log - Step_6: Select the tearms of services checkbox
+15:24:09.330 [main] INFO  Utils.Log - Step_7: Click on the checkout button
+15:24:10.195 [main] INFO  Utils.Log - Step_8: Verify the result
+15:24:10.221 [main] INFO  Utils.Log - Actual Page Url Is :https://demo.nopcommerce.com/login/checkoutasguest?returnUrl=%2Fcart
+15:24:10.221 [main] INFO  Utils.Log - Expected Page Url is:https://demo.nopcommerce.com/login/checkoutasguest?returnUrl=%2Fcart
+15:24:10.226 [main] INFO  Utils.Log - ====================================GoToCheckOutPage==========================================
+15:31:49.353 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:31:49.358 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:31:49.894 [main] INFO  Utils.Log - Step_2: Click on search button
+15:31:51.483 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:31:51.579 [main] INFO  Utils.Log - Step_4: Check the searched product is displaying or not
+15:31:51.645 [main] INFO  Utils.Log - Step_5: Click on add to cart button
+15:31:51.771 [main] INFO  Utils.Log - Step_6: Click on shooping cart link
+15:31:54.058 [main] INFO  Utils.Log - Step_7: Verify the product is displaying on the shooping cart page
+15:31:54.151 [main] INFO  Utils.Log - Product is displaying on the shooping cart page
+15:31:54.151 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:32:00.370 [main] INFO  Utils.Log - ====================================GoToCheckOutPage==========================================
+15:32:00.370 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:32:00.540 [main] INFO  Utils.Log - Step_2: Click on search button
+15:32:01.448 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:32:01.469 [main] INFO  Utils.Log - Step_4: Click on add to cart button
+15:32:01.596 [main] INFO  Utils.Log - Step_5: Click on shooping cart link
+15:33:16.065 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:33:16.105 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:33:16.315 [main] INFO  Utils.Log - Step_2: Click on search button
+15:33:16.916 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:33:17.111 [main] INFO  Utils.Log - Step_4: Check the searched product is displaying or not
+15:33:17.291 [main] INFO  Utils.Log - Step_5: Click on add to cart button
+15:33:17.435 [main] INFO  Utils.Log - Step_6: Click on shooping cart link
+15:33:19.834 [main] INFO  Utils.Log - Step_7: Verify the product is displaying on the shooping cart page
+15:33:19.912 [main] INFO  Utils.Log - Product is displaying on the shooping cart page
+15:33:19.913 [main] INFO  Utils.Log - ====================================ProductAddToShoopingCartTest==========================================
+15:33:26.134 [main] INFO  Utils.Log - ====================================GoToCheckOutPage==========================================
+15:33:26.135 [main] INFO  Utils.Log - Step_1: Enter product name in search box
+15:33:26.332 [main] INFO  Utils.Log - Step_2: Click on search button
+15:33:27.468 [main] INFO  Utils.Log - Step_3: Scroll till product details dispalaying
+15:33:27.482 [main] INFO  Utils.Log - Step_4: Click on add to cart button
+15:33:27.705 [main] INFO  Utils.Log - Step_5: Click on shooping cart link
+15:33:30.045 [main] INFO  Utils.Log - Step_6: Select the tearms of services checkbox
+15:33:30.216 [main] INFO  Utils.Log - Step_7: Click on the checkout button
+15:33:31.043 [main] INFO  Utils.Log - Step_8: Verify the result
+15:33:31.056 [main] INFO  Utils.Log - Actual Page Url Is :https://demo.nopcommerce.com/login/checkoutasguest?returnUrl=%2Fcart
+15:33:31.056 [main] INFO  Utils.Log - Expected Page Url is:https://demo.nopcommerce.com/login/checkoutasguest?returnUrl=%2Fcart
+15:33:31.063 [main] INFO  Utils.Log - ====================================GoToCheckOutPage==========================================
