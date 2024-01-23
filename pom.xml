@@ -124,6 +124,7 @@
 						<suiteXmlFile>${xmlFiles}</suiteXmlFile>
 					</suiteXmlFiles>
 					<systemPropertyVariables>
+						<excutionBrowser>${browser}</excutionBrowser>
 						<appURL>${url}</appURL>
 					</systemPropertyVariables>
 				</configuration>
