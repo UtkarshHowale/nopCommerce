@@ -117,11 +117,8 @@
 					<version>2.22.1</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>${xmlFiles}</suiteXmlFile>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
 						</suiteXmlFiles>
-						<systemPropertyVariables>
-							<appURL>${url}</appURL>
-						</systemPropertyVariables>
 					</configuration>
 				</plugin>
 				<plugin>
