@@ -120,8 +120,8 @@
 							<suiteXmlFile>${xmlFiles}</suiteXmlFile>
 						</suiteXmlFiles>
 						<systemPropertyVariables>
-						<appURL>${url}</appURL>
-					</systemPropertyVariables>
+							<appURL>${url}</appURL>
+						</systemPropertyVariables>
 					</configuration>
 				</plugin>
 				<plugin>
